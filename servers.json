@@ -1,1 +1,93 @@
 
+[
+  {
+    "n": "🇩🇪 Германия",
+    "s": "FRANKFURT • VPN",
+    "u": "vless://b149d086-51a3-4d07-8ae7-6873d3db5d3b@vpn3.osaku.ru:29823?type=tcp&security=reality&pbk=NWDvIt62rEQmSPoJmluWS0lAetENUd3ieOPG3VqDSjY&fp=chrome&sni=yahoo.com&sid=830b95&spx=%2F#GERMANY"
+  },
+  {
+    "n": "🇳🇱 Нидерланды (VPN)",
+    "s": "AMSTERDAM • VPN",
+    "u": "vless://64f53c9c-548a-4a6c-842c-770f9994f7f1@ya14.shukafish.ru:443?type=tcp&security=reality&pbk=gbP2G_j0cmFvgmWaWLpzZavEzQiPzky-fApmbF2BWxU&fp=qq&sni=pimg.mycdn.me&sid=bd&spx=%2F&flow=xtls-rprx-vision#NL_VPN"
+  },
+  {
+    "n": "🇳🇱 Нидерланды (gRPC)",
+    "s": "AMSTERDAM • VPN",
+    "u": "vless://64f53c9c-548a-4a6c-842c-770f9994f7f1@ya11.shukafish.ru:1443?type=grpc&security=reality&pbk=JuDrUZsgHt0i_hz3kOhQbiX708vbjR9uHHFwi3fWqSc&fp=qq&sni=ozon.ru&sid=47e92a4b0513b27f&spx=%2F&serviceName=admin&mode=false#NL_GRPC"
+  },
+  {
+    "n": "🇫🇷 Франция",
+    "s": "PARIS • VPN",
+    "u": "vless://64f53c9c-548a-000e-842c-770f9994f7f1@yax3.shukafish.ru:8443?type=tcp&security=reality&pbk=73XglR9lOaXBISd7mGgTEP60v28mz8pmCDivcDAF_WU&fp=ios&sni=pimg.mycdn.me&sid=7c9cc821&spx=%2F&flow=xtls-rprx-vision#FRANCE"
+  },
+  {
+    "n": "🇬🇧 Англия",
+    "s": "LONDON • VPN",
+    "u": "vless://64f53c9c-548a-0001-842c-770f9994f7f1@yax4.shukafish.ru:8443?type=tcp&security=reality&pbk=73XglR9lOaXBISd7mGgTEP60v28mz8pmCDivcDAF_WU&fp=ios&sni=pimg.mycdn.me&sid=d3d691bb9668&spx=%2F&flow=xtls-rprx-vision#ENGLAND"
+  },
+  {
+    "n": "🇮🇹 Италия",
+    "s": "MILAN • VPN",
+    "u": "vless://64f53c9c-548a-000f-842c-770f9994f7f1@yax5.shukafish.ru:8443?type=tcp&security=reality&pbk=73XglR9lOaXBISd7mGgTEP60v28mz8pmCDivcDAF_WU&fp=ios&sni=pimg.mycdn.me&sid=1596b946f2cb560c&spx=%2F&flow=xtls-rprx-vision#ITALY"
+  },
+  {
+    "n": "🇭🇺 Венгрия",
+    "s": "BUDAPEST • VPN",
+    "u": "vless://64f53c9c-548a-000b-842c-770f9994f7f1@yax2.shukafish.ru:8443?type=tcp&security=reality&pbk=73XglR9lOaXBISd7mGgTEP60v28mz8pmCDivcDAF_WU&fp=ios&sni=pimg.mycdn.me&sid=d71e3bba229829&spx=%2F&flow=xtls-rprx-vision#HUNGARY"
+  },
+  {
+    "n": "🇵🇱 Польша",
+    "s": "WARSAW • VPN",
+    "u": "vless://64f53c9c-548a-000c-842c-770f9994f7f1@yax2.shukafish.ru:8443?type=tcp&security=reality&pbk=73XglR9lOaXBISd7mGgTEP60v28mz8pmCDivcDAF_WU&fp=safari&sni=pimg.mycdn.me&sid=9549&spx=%2F&flow=xtls-rprx-vision#POLAND"
+  },
+  {
+    "n": "🇨🇭 Швейцария",
+    "s": "ZURICH • VPN",
+    "u": "vless://64f53c9c-548a-0002-842c-770f9994f7f1@yax3.shukafish.ru:8443?type=tcp&security=reality&pbk=73XglR9lOaXBISd7mGgTEP60v28mz8pmCDivcDAF_WU&fp=ios&sni=pimg.mycdn.me&sid=9549&spx=%2F&flow=xtls-rprx-vision#SWITZERLAND"
+  },
+  {
+    "n": "🇹🇷 Турция",
+    "s": "ISTANBUL • VPN",
+    "u": "vless://64f53c9c-548a-0003-842c-770f9994f7f1@yax5.shukafish.ru:8443?type=tcp&security=reality&pbk=73XglR9lOaXBISd7mGgTEP60v28mz8pmCDivcDAF_WU&fp=edge&sni=pimg.mycdn.me&sid=aea104e730&spx=%2F&flow=xtls-rprx-vision#TURKEY"
+  },
+  {
+    "n": "🇰🇿 Казахстан",
+    "s": "ALMATY • VPN",
+    "u": "vless://64f53c9c-548a-0006-842c-770f9994f7f1@yax3.shukafish.ru:8443?type=tcp&security=reality&pbk=73XglR9lOaXBISd7mGgTEP60v28mz8pmCDivcDAF_WU&fp=ios&sni=pimg.mycdn.me&sid=68&spx=%2F&flow=xtls-rprx-vision#KAZAKHSTAN"
+  },
+  {
+    "n": "🇪🇸 Испания",
+    "s": "MADRID • VPN",
+    "u": "vless://64f53c9c-548a-0009-842c-770f9994f7f1@yax3.shukafish.ru:8443?type=tcp&security=reality&pbk=73XglR9lOaXBISd7mGgTEP60v28mz8pmCDivcDAF_WU&fp=ios&sni=pimg.mycdn.me&sid=7c9cc821&spx=%2F&flow=xtls-rprx-vision#SPAIN"
+  },
+  {
+    "n": "🇯🇵 Япония",
+    "s": "TOKYO • VPN",
+    "u": "vless://64f53c9c-548a-0008-842c-770f9994f7f1@yax1.shukafish.ru:8443?type=tcp&security=reality&pbk=73XglR9lOaXBISd7mGgTEP60v28mz8pmCDivcDAF_WU&fp=qq&sni=pimg.mycdn.me&sid=d3d691bb9668&spx=%2F&flow=xtls-rprx-vision#JAPAN"
+  },
+  {
+    "n": "🇨🇦 Канада",
+    "s": "TORONTO • VPN",
+    "u": "vless://64f53c9c-548a-0005-842c-770f9994f7f1@yax5.shukafish.ru:8443?type=tcp&security=reality&pbk=73XglR9lOaXBISd7mGgTEP60v28mz8pmCDivcDAF_WU&fp=edge&sni=pimg.mycdn.me&sid=1596b946f2cb560c&spx=%2F&flow=xtls-rprx-vision#CANADA"
+  },
+  {
+    "n": "🇩🇪 Германия 2",
+    "s": "BERLIN • VPN",
+    "u": "vless://64f53c9c-548a-0004-842c-770f9994f7f1@yax3.shukafish.ru:8443?type=tcp&security=reality&pbk=73XglR9lOaXBISd7mGgTEP60v28mz8pmCDivcDAF_WU&fp=edge&sni=pimg.mycdn.me&sid=aea104e730&spx=%2F&flow=xtls-rprx-vision#GERMANY_2"
+  },
+  {
+    "n": "🇭🇰 Гонконг",
+    "s": "HK • VPN",
+    "u": "vless://64f53c9c-548a-000d-842c-770f9994f7f1@yax1.shukafish.ru:8443?type=tcp&security=reality&pbk=73XglR9lOaXBISd7mGgTEP60v28mz8pmCDivcDAF_WU&fp=qq&sni=pimg.mycdn.me&sid=d71e3bba229829&spx=%2F&flow=xtls-rprx-vision#HONGKONG"
+  },
+  {
+    "n": "🇺🇸 США",
+    "s": "NEW YORK • VPN",
+    "u": "vless://64f53c9c-548a-000a-842c-770f9994f7f1@yax3.shukafish.ru:8443?type=tcp&security=reality&pbk=73XglR9lOaXBISd7mGgTEP60v28mz8pmCDivcDAF_WU&fp=edge&sni=pimg.mycdn.me&sid=d71e3bba229829&spx=%2F&flow=xtls-rprx-vision#USA"
+  },
+  {
+    "n": "🇳🇱 Нидерланды (ОБХОД)",
+    "s": "AMSTERDAM • Обход глушилок",
+    "u": "vless://64f53c9c-548a-4a6c-842c-770f9994f7f1@217.16.21.136:443?type=tcp&security=reality&pbk=oXIpgeQ6bsvsWYGh1131RENndNr26fV-NonRoUgi5hA&fp=edge&sni=sun6-21.userapi.com&sid=72df7571e3aa7adb&spx=%2F&flow=xtls-rprx-vision#Netherlands"
+  }
+]
