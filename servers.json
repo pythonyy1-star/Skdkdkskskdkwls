@@ -22,7 +22,7 @@
   {
     "n": "🇭🇺 Венгрия",
     "s": "BUDAPEST • VPN",
-    "u": "vless://64f53c9c-548a-000b-842c-770f9994f7f1@yax2.shukafish.ru:8443?type=tcp&security=reality&pbk=73XglR9lOaXBISd7mGgTEP60v28mz8pmCDivcDAF_WU&fp=ios&sni=pimg.mycdn.me&sid=d71e3bba229829&spx=%2F&flow=xtls-rprx-vision#HUNGARY"
+    "u": "vless://64f53c9c-548a-000b-842c-770f9994f7f1@yax2.shukafish.ru:8443?type=tcp&security=reality&pbk=73XglR9lOaXBISd7mGgTEP60v28mz8pmCDivcDAF_WU&fp=ios&sni=pimg.mycdn.me&sid=71e3bba229829&spx=%2F&flow=xtls-rprx-vision#HUNGARY"
   },
   {
     "n": "🇵🇱 Польша",
@@ -73,5 +73,100 @@
     "n": "🇺🇸 США",
     "s": "NEW YORK • VPN",
     "u": "vless://64f53c9c-548a-000a-842c-770f9994f7f1@yax3.shukafish.ru:8443?type=tcp&security=reality&pbk=73XglR9lOaXBISd7mGgTEP60v28mz8pmCDivcDAF_WU&fp=edge&sni=pimg.mycdn.me&sid=d71e3bba229829&spx=%2F&flow=xtls-rprx-vision#USA"
+  },
+  {
+    "n": "🇩🇪 Германия (1Gbs)",
+    "s": "FRANKFURT • VPN",
+    "u": "vless://c03d461e-ef50-433a-9d1b-c85eea4b2260@00vpn.osaku.ru:34714/?type=tcp&security=reality&pbk=5yvboxX-s6hz1GVv6gkLdKLuFqozOzUKde2xoGy7s0Q&fp=chrome&sni=yahoo.com&sid=65cf30&spx=%2F"
+  },
+  {
+    "n": "🇩🇪 Германия (1Gbs)",
+    "s": "FRANKFURT • VPN",
+    "u": "vless://7aaf39c8-e768-4bf2-9be4-8d653d3ee26f@vpnf0.osaku.ru:37798/?type=tcp&encryption=none&security=reality&pbk=_THZFiwKF4RiIja_Ey4hlYrnfE5DLlAHiiee4Bwb4nw&fp=chrome&sni=google.com&sid=1d&spx=%2F"
+  },
+  {
+    "n": "🇩🇪 Германия (100Mbps)",
+    "s": "FRANKFURT • VPN",
+    "u": "vless://ff85043e-1b98-479b-b320-a030954feb4e@vpn2.osaku.ru:52952/?type=tcp&encryption=none&security=reality&pbk=5ZrO7NvLFxWwImmSSoBXniFs_CNG39vzziR-6a72HkY&fp=chrome&sni=google.com&sid=364d&spx=%2F"
+  },
+  {
+    "n": "🇩🇪 Германия (100Mbps)",
+    "s": "FRANKFURT • VPN",
+    "u": "vless://3c8696b5-3985-44a8-8fb5-6c20a6c2b964@vpn3.osaku.ru:33509/?type=tcp&security=reality&pbk=1ouWbEOJIRaT9wiz4yc0gEvQ0wn0RH6jmiNcvgO8tTE&fp=chrome&sni=yahoo.com&sid=2159adc3fe&spx=%2F"
+  },
+  {
+    "n": "🇩🇪 Германия (100Mbps)",
+    "s": "FRANKFURT • VPN",
+    "u": "vless://9e5c0cc6-b16f-4015-aa09-a177ab28f95a@vpn4.osaku.ru:14497?type=tcp&security=reality&pbk=_l6bkD_OOc88xE6sIFYNRYIQsLw0164hP8oTWScMbQ4&fp=chrome&sni=yahoo.com&sid=7443&spx=%2F"
+  },
+  {
+    "n": "🇩🇪 Германия (100Mbps)",
+    "s": "FRANKFURT • VPN",
+    "u": "vless://891f89e0-9b23-4f1c-a0e5-a9fa23b2b0a0@vpn5.osaku.ru:30353?type=tcp&security=reality&pbk=i0H7RlxdvCcKF5sFcJX2j5xjmkjh0GRbgBzl7dJTHRk&fp=chrome&sni=yahoo.com&sid=323bdb&spx=%2F"
+  },
+  {
+    "n": "🇩🇪 Германия (100Mbps)",
+    "s": "FRANKFURT • VPN",
+    "u": "vless://a75d2f69-db84-4d9f-8252-d47f91b8a152@vpn7.osaku.ru:55320/?type=tcp&security=reality&pbk=5tKp5fGMiDeoO-n2I2zQE32Q-dOtiBUHpHZ1cQn16FQ&fp=chrome&sni=yahoo.com&sid=8a5c41f86f7b&spx=%2F"
+  },
+  {
+    "n": "🇩🇪 Германия (100Mbps)",
+    "s": "FRANKFURT • VPN",
+    "u": "vless://16f6c9b6-4453-4253-9e46-4b9aeab51206@vpn10.osaku.ru:52611/?type=tcp&security=reality&pbk=yBNnKkfJfftbeIy2HCYphPV508X2MOFf6eHibPnUATA&fp=chrome&sni=google.com&sid=654e0be734&spx=%2F"
+  },
+  {
+    "n": "🇩🇪 Германия (100Mbps)",
+    "s": "FRANKFURT • VPN",
+    "u": "vless://7b22c491-3f74-4f23-9214-8c499638ed0d@vpn11.osaku.ru:57592/?type=tcp&encryption=none&security=reality&pbk=PpB_2nwGylpbVopQjFQijNNj_P06WnMUP05Zkq-uSRA&fp=chrome&sni=google.com&sid=36323a31d581&spx=%2F"
+  },
+  {
+    "n": "🇩🇪 Германия (100Mbps)",
+    "s": "FRANKFURT • VPN",
+    "u": "vless://7d4ea158-f5a7-48aa-bcfd-cf2777846dc4@vpn12.osaku.ru:50338/?type=tcp&encryption=none&security=reality&pbk=YeB7ALTPEB-A9Rw-FZ9gQtERFOwC750VJTloEI1tMms&fp=chrome&sni=google.com&sid=04&spx=%2F"
+  },
+  {
+    "n": "🇩🇪 Германия (100Mbps)",
+    "s": "FRANKFURT • VPN",
+    "u": "vless://a899eb56-25a0-4b85-aee0-04faa9740d43@vpn13.osaku.ru:13274/?type=tcp&encryption=none&security=reality&pbk=B3-FsiGOZDagiWKogtU5pAe8rsIznqAZrU9y4B6Tgmo&fp=chrome&sni=google.com&sid=40f6c6c1&spx=%2F"
+  },
+  {
+    "n": "🇩🇪 Германия (100Mbps)",
+    "s": "FRANKFURT • VPN",
+    "u": "vless://fa2079f4-dc7c-4dc6-b308-b8fb416c4a5b@vpn14.osaku.ru:33700/?type=tcp&encryption=none&security=reality&pbk=DIhVqvmCNIrj4LCUmweqPvYCGENcRIy8BAu5Xs6sZDY&fp=chrome&sni=google.com&sid=29&spx=%2F"
+  },
+  {
+    "n": "🇩🇪 Германия (1Gbs)",
+    "s": "FRANKFURT • VPN",
+    "u": "vless://98611f16-8ec0-4740-b4c4-fd1a6d705f72@vpnf0.osaku.ru:28641/?type=tcp&encryption=none&security=reality&pbk=JwaeZc-_oaKpdSkrNQumusaBiJDpbNb3mkkKjEjB2Gs&fp=chrome&sni=google.com&sid=bd8aa4ff&spx=%2F"
+  },
+  {
+    "n": "🇩🇪 Германия (1Gbps)",
+    "s": "FRANKFURT • VPN",
+    "u": "vless://825d3bf8-6787-4a88-a003-b32ff5244ba6@vpn1p.osaku.ru:33927/?type=tcp&encryption=none&security=reality&pbk=ZNUEE0aXsvhxayprfHOY1p9hneegIyliLcNNcFbPRyQ&fp=chrome&sni=google.com&sid=4a06cf2f&spx=%2F"
+  },
+  {
+    "n": "🇩🇪 Германия (1Gbps)",
+    "s": "FRANKFURT • VPN",
+    "u": "vless://6e0a133a-2a81-4abb-bb00-4180ac0f630b@vpn2p.osaku.ru:12350/?type=tcp&encryption=none&security=reality&pbk=ZHNao8IE80kycM0aVGU50WCVqK8uBSKlFTt8rGxNUhc&fp=chrome&sni=google.com&sid=7ebb96&spx=%2F"
+  },
+  {
+    "n": "🇩🇪 Германия (1Gbps)",
+    "s": "FRANKFURT • VPN",
+    "u": "vless://5ee7241c-733e-4bca-b723-c8a041ab0580@vpn3p.osaku.ru:57667/?type=tcp&encryption=none&security=reality&pbk=DEp4rUsRX9k86Lnxnpagx5oPvIszjysCHDbYRzUnyTE&fp=chrome&sni=google.com&sid=70&spx=%2F"
+  },
+  {
+    "n": "🇩🇪 Германия (1Gbps)",
+    "s": "FRANKFURT • VPN",
+    "u": "vless://fae5d714-7d15-4bdd-adac-eeb39d9da344@vpn4p.osaku.ru:15816/?type=tcp&encryption=none&security=reality&pbk=stjkPA-X3bY7E9QqZFA0VzGCnkIz_o-zE80Jj-oalgE&fp=chrome&sni=google.com&sid=aa&spx=%2F"
+  },
+  {
+    "n": "🇳🇱 Нидерланды (1Gbps)",
+    "s": "AMSTERDAM • VPN",
+    "u": "vless://75fca29b-3e5b-4c22-85e0-558a390de243@vpn20.osaku.ru:27149/?type=tcp&encryption=none&security=reality&pbk=oSxoMcAB0NlZcb2Z1FxWyFjo2S9cgf-XmEz7aSXYwyg&fp=chrome&sni=google.com&sid=3bb7b994ab&spx=%2F"
+  },
+  {
+    "n": "🇳🇱 Нидерланды (1Gbps)",
+    "s": "AMSTERDAM • VPN",
+    "u": "vless://23e72204-797a-4078-995c-1becdea22b3d@vpnvdsina.osaku.ru:49633/?type=tcp&security=reality&pbk=nxIpSDKgHi-ZW6KT2PYXO84hFGDiCB6WvRccNUXd6Bs&fp=chrome&sni=yahoo.com&sid=ca471deb59eaa310&spx=%2F"
   }
 ]
